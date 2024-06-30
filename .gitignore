@@ -1,0 +1,5 @@
+#Arquivos de dependências
+*.mod
+
+#Arquivos de texto
+*.txt
